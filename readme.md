@@ -65,7 +65,7 @@ The analysis was designed to answer the following questions:
 
 ![IBM HR Attrition Dashboard](attrition_dashboard.png)
 
-![IBM HR Attrition Dashboard with filters displayed](attrition_dashboard_filters.png)
+![IBM HR Attrition Dashboard with filters displayed](Attrition_dashboard_filters.png)
 
 ## Insights
 
