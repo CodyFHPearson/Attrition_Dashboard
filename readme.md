@@ -6,8 +6,6 @@ For this project, I assumed the role of an HR Data Analyst for IBM and was taske
 
 In addition to developing the dashboard, I was provided with a series of business questions to investigate. Based on the results, I identified key insights and developed actionable recommendations intended to support employee-retention efforts.
 
-For a more detailed explanation of the chart creation process, view the [full project documentation](attrition_dashboard_documentation.pdf).
-
 ## Disclaimer
 
 This dashboard and its accompanying analysis use the fictional “IBM HR Analytics Employee Attrition & Performance” dataset obtained from Kaggle. This independent portfolio project is not affiliated with or endorsed by IBM. The project was completed solely to demonstrate my data-analysis and Tableau skills.
@@ -59,7 +57,7 @@ The analysis was designed to answer the following questions:
 
 ### Video Demo
 
-▶️ **[Watch the interactive dashboard walkthrough](https://youtu.be/NLbCEp6yoYQ)**
+▶️ **[Watch Demo](https://youtu.be/NLbCEp6yoYQ)**
 
 ###  Dashboard Screenshots
 
